@@ -1,6 +1,7 @@
 # compressor-app-frontend
 
 This template should help get you started developing with Vue 3 in Vite.
+Check here: [FULL COURSE](https://youtu.be/siqDdrZI4x4?si=LA6zA9Yj4pn2EJJg) 
 
 ## Easy Compressor dashboard
 ![Compressor App Dashboard](dashboard.png)
